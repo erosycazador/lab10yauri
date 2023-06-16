@@ -1,0 +1,38 @@
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\bin\Debug\netstandard2.0\lab10yauri.deps.json
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\bin\Debug\netstandard2.0\lab10yauri.dll
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\bin\Debug\netstandard2.0\lab10yauri.pdb
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.csproj.AssemblyReference.cache
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\BindingModeDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\PickerDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\ViewToViewDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.AssemblyInfoInputs.cache
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.AssemblyInfo.cs
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.csproj.CoreCompileInputs.cache
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.dll
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\refint\lab10yauri.dll
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.pdb
+C:\Users\ERICA\source\repos\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\ref\lab10yauri.dll
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\bin\Debug\netstandard2.0\lab10yauri.deps.json
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\bin\Debug\netstandard2.0\lab10yauri.dll
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\bin\Debug\netstandard2.0\lab10yauri.pdb
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.csproj.AssemblyReference.cache
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\BindingModeDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\ListViewDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\PickerDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\ViewToViewDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.AssemblyInfoInputs.cache
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.AssemblyInfo.cs
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.csproj.CoreCompileInputs.cache
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.dll
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\refint\lab10yauri.dll
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\lab10yauri.pdb
+C:\Users\ERICA\source\repos\yauri solier\lab10yauri\lab10yauri\lab10yauri\obj\Debug\netstandard2.0\ref\lab10yauri.dll

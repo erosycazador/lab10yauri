@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ael026dge7ddKF/2yXlMayx17PCc+IMsz9IW7VB6VrXFipvilRfh5Em52oFNYBLtnRF6LPAVvscbPu8bjSO9BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ERICA\\source\\repos\\lab10yauri\\lab10yauri\\lab10yauri.iOS\\lab10yauri.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ERICA\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ERICA\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ERICA\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
